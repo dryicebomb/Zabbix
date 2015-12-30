@@ -27,6 +27,10 @@ This script require RubyGems 1.8 or higher.
 
 This script require SNMP gem 1.1.0 or higher.
 
+###### [Resolve_replace] (https://rubygems.org/gems/resolver_replace) 0.1.0
+
+This script require resolver_replace gem 0.1.0 or higher.
+
 Usage
 -----
 
