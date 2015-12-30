@@ -22,8 +22,9 @@ OPTIONS
 require 'rubygems'
 require 'optparse'
 require 'snmp'
+require 'resolv-replace'
 
-version="0.0.1"
+version="0.0.2"
 
 # Howto use it..quiet simple
 OPTIONS = {}
