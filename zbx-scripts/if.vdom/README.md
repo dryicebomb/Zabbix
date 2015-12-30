@@ -9,6 +9,7 @@ Installation
 1. Install `if.vdom` in the **ExternalScripts** directory of your Zabbix server and/or proxy. Check your `zabbix_server.conf` and/or `zabbix_proxy.conf` if in doubt.
 2. Then chmod a+x `if.vdom`
 3. Install SNMP gem `gem install snmp`
+4. Install DNS Resolver gem `gem install resolver_replace`
 
 ### Requirements
 
